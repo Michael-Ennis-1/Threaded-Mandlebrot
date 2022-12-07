@@ -1,2 +1,2 @@
 # Threaded-Mandlebrot
-CMP202 Data Structures year 2 module, which is an application for threading Mandlebrot. It splits the original task of rendering Mandlebrot into several tasks that are then worked on by a task farm with however many threads the user decides is necessary.
+CMP202 Data Structures year 2 module, which is an application for threading a Mandlebrot set. It splits the original task of rendering it into several tasks that are then worked on by however many threads the user decides is necessary. The tasks are split over the threads via a Task Farm, making sure that all threads are running for as long as there is still tasks left to accomplish. Link to Presentation: https://drive.google.com/drive/folders/1SPaUgP0lSZPYEsn8o3_K3RHT1JzkGxAL?usp=share_link
