@@ -1,0 +1,13 @@
+﻿  farm.cpp
+  mandelbrot.cpp
+  mandlebrotTask.cpp
+  Semaphore.cpp
+  writeTask.cpp
+C:\Users\micha\Desktop\mandelbrot3\mandelbrot\writeTask.cpp(25,9): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\micha\Desktop\mandelbrot3\mandelbrot\writeTask.cpp(25,30): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\micha\Desktop\mandelbrot3\mandelbrot\writeTask.cpp(26,10): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\micha\Desktop\mandelbrot3\mandelbrot\writeTask.cpp(26,32): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+farm.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  mandelbrot.vcxproj -> C:\Users\micha\Desktop\mandelbrot3\x64\Debug\mandelbrot.exe

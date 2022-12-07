@@ -1,0 +1,14 @@
+﻿  farm.cpp
+  mandelbrot.cpp
+  mandlebrotTask.cpp
+  Semaphore.cpp
+  writeTask.cpp
+C:\Users\micha\Desktop\michael_ennis_mandlebrot_1902141\mandelbrot\writeTask.cpp(26,9): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\micha\Desktop\michael_ennis_mandlebrot_1902141\mandelbrot\writeTask.cpp(26,30): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\micha\Desktop\michael_ennis_mandlebrot_1902141\mandelbrot\writeTask.cpp(27,10): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+C:\Users\micha\Desktop\michael_ennis_mandlebrot_1902141\mandelbrot\writeTask.cpp(27,32): warning C4838: conversion from 'int' to 'uint8_t' requires a narrowing conversion
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 373 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mandelbrot.vcxproj -> C:\Users\micha\Desktop\michael_ennis_mandlebrot_1902141\x64\Release\mandelbrot.exe
